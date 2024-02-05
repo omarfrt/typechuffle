@@ -11,7 +11,7 @@ export default function Home(){
     return(
         <body>
         <main>
-        <a href="https://www.linkedin.com/in/omar-fertat-30953717b/" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/omarfrt/typechuffle" target="_blank" rel="noopener noreferrer">
         <div className="decodeContainer" key={rerenderKey}>
         <ShuffleType text="Hello fellow nerds" className= "codedText"/>
         <ShuffleType text="this Decoding animation took me 2 days to create " className= "codedText"/>
